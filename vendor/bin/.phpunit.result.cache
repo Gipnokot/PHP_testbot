@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Almaz\\Tgbot\\Tests\\BotTest::testStartCommand":8,"Almaz\\Tgbot\\Tests\\BotTest::testMessageInPrivateChat":8,"Almaz\\Tgbot\\Tests\\BotTest::testMessageInGroupChat":8},"times":{"Almaz\\Tgbot\\Tests\\BotTest::testStartCommand":0.01,"Almaz\\Tgbot\\Tests\\BotTest::testMessageInPrivateChat":0,"Almaz\\Tgbot\\Tests\\BotTest::testMessageInGroupChat":0}}

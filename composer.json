@@ -1,0 +1,26 @@
+{
+    "name": "almaz/tgbot",
+    "description": "Simple TG bot for response",
+    "type": "project",
+    "require": {
+        "nutgram/nutgram": "^4.27"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Almaz\\Tgbot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gipnokot"
+        }
+    ],
+    "minimum-stability": "stable",
+    "scripts": {
+        "test": "phpunit"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
+}

@@ -3,7 +3,9 @@
 require __DIR__ . '/../vendor/autoload.php';
 
 use SergiX44\Nutgram\Nutgram;
-$bot = new Nutgram('7939743955:AAFiNEUy2rfy0KeOoICr9gxW3284NnSI45s');
+
+$bot = new Nutgram('YOUR TOKEN');
+
 
 $bot->onCommand('start', function (Nutgram $bot) {
     $chatType = $bot->message()->chat->type->value;
